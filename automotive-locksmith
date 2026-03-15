@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Automotive Locksmith Williston ND | Car Lockout & Car Key Replacement</title>
+    <meta
+      name="description"
+      content="Automotive locksmith in Williston, ND for car lockouts, car key replacement, key fob programming, and lost car keys. Mobile service in Williston and nearby towns including Sidney, MT."
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Locksmith",
+        "name": "Emry’s Locksmithing",
+        "telephone": "+1-701-572-5729",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "118 1st Ave W",
+          "addressLocality": "Williston",
+          "addressRegion": "ND",
+          "postalCode": "58801",
+          "addressCountry": "US"
+        },
+        "serviceType": ["Car lockout", "Car key replacement", "Key fob programming"],
+        "areaServed": ["Williston ND", "Ray ND", "Tioga ND", "Watford City ND", "Stanley ND", "Alexander ND", "Sidney MT"]
+      }
+    </script>
+  </head>
+  <body>
+    <a class="skip-link" href="#content">Skip to content</a>
+    <header class="site-header"><div class="container header-inner"><a class="logo" href="index.html">Emry’s Locksmithing<small>Williston, ND Storefront + Mobile Service</small></a><nav class="main-nav" aria-label="Primary"><ul><li><a href="index.html">Home</a></li><li><a href="automotive-locksmith.html" aria-current="page">Automotive</a></li><li><a href="residential-locksmith.html">Residential</a></li><li><a href="commercial-locksmith.html">Commercial</a></li><li><a href="contact.html">Contact</a></li></ul></nav></div></header>
+
+    <main id="content">
+      <section class="hero">
+        <div class="container">
+          <h1>Automotive Locksmith in Williston, ND</h1>
+          <p>
+            Locked keys in your car or need a replacement key? Emry’s Locksmithing provides fast, professional automotive locksmith
+            service for Williston and nearby areas, including Sidney, MT.
+          </p>
+          <div class="hero-actions"><a class="btn" href="tel:+17015725729">Call Now</a><a class="btn btn-secondary" href="contact.html">Contact & Location</a></div>
+        </div>
+      </section>
+
+      <section>
+        <div class="container two-col">
+          <article class="card">
+            <h2>Car lockout Williston</h2>
+            <p>
+              If you are searching for emergency locksmith Williston help after locking your keys in your vehicle, call us for local
+              automotive lockout assistance.
+            </p>
+          </article>
+          <article class="card">
+            <h2>Car key replacement Williston</h2>
+            <p>
+              We provide car key replacement services and can assist with many lost key situations, including support for select key fobs.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <section>
+        <div class="container card">
+          <h2>Automotive services we offer</h2>
+          <ul class="service-list">
+            <li>Vehicle lockout service</li>
+            <li>Lost car key solutions</li>
+            <li>Car key replacement</li>
+            <li>Key fob programming</li>
+            <li>Spare vehicle key setup</li>
+          </ul>
+          <p>
+            We serve drivers across Williston, ND and surrounding communities in the Bakken region, including Sidney, MT.
+          </p>
+        </div>
+      </section>
+
+      <section>
+        <div class="container card">
+          <!-- Replace with your own automotive locksmith photos -->
+          <img src="https://images.unsplash.com/photo-1520340356584-f9917d1eea6f?auto=format&fit=crop&w=1200&q=80" alt="Placeholder image for automotive locksmith service and vehicle key support" loading="lazy" />
+          <p class="note">Photo placeholder: replace with service van and real automotive work photos.</p>
+        </div>
+      </section>
+
+      <section>
+        <div class="container cta-band">
+          <h2>Need car key replacement or a car lockout locksmith in Williston?</h2>
+          <p>Call Emry’s Locksmithing now for local automotive locksmith service.</p>
+          <a class="btn btn-secondary" href="tel:+17015725729">Call Now</a>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer"><div class="container footer-grid"><div><strong>Emry’s Locksmithing</strong><br />118 1st Ave W, Williston, ND 58801<br /><a href="tel:+17015725729">(701) 572-5729</a></div><div><a href="contact.html">Contact Page</a> · <a data-gbp-link href="#">Google Business Profile</a><p class="note">Call or view our Google Business Profile for current hours and availability.</p></div><div>© <span id="year"></span> Emry’s Locksmithing</div></div></footer>
+    <div class="mobile-callbar"><a href="tel:+17015725729">📞 Call Now: (701) 572-5729</a></div>
+    <script src="script.js"></script>
+  </body>
+</html>
