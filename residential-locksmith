@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Residential Locksmith Williston ND | House Lockout, Rekeying & Deadbolts</title>
+    <meta
+      name="description"
+      content="Residential locksmith services in Williston, ND including house lockout help, rekeying locks, deadbolt installation, and lock repair/replacement for homeowners in Williston and nearby towns."
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Locksmith",
+        "name": "Emry’s Locksmithing",
+        "telephone": "+1-701-572-5729",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "118 1st Ave W",
+          "addressLocality": "Williston",
+          "addressRegion": "ND",
+          "postalCode": "58801",
+          "addressCountry": "US"
+        },
+        "serviceType": ["House lockout", "Rekey locks", "Deadbolt installation", "Lock repair"],
+        "areaServed": ["Williston ND", "Ray ND", "Tioga ND", "Watford City ND", "Stanley ND", "Alexander ND", "Sidney MT"]
+      }
+    </script>
+  </head>
+  <body>
+    <a class="skip-link" href="#content">Skip to content</a>
+    <header class="site-header"><div class="container header-inner"><a class="logo" href="index.html">Emry’s Locksmithing<small>Williston, ND Storefront + Mobile Service</small></a><nav class="main-nav" aria-label="Primary"><ul><li><a href="index.html">Home</a></li><li><a href="automotive-locksmith.html">Automotive</a></li><li><a href="residential-locksmith.html" aria-current="page">Residential</a></li><li><a href="commercial-locksmith.html">Commercial</a></li><li><a href="contact.html">Contact</a></li></ul></nav></div></header>
+
+    <main id="content">
+      <section class="hero">
+        <div class="container">
+          <h1>Residential Locksmith Services in Williston, ND</h1>
+          <p>
+            Home lock issues are stressful. Emry’s Locksmithing helps homeowners with house lockouts, rekeying locks,
+            deadbolt installation, and lock repair and replacement.
+          </p>
+          <div class="hero-actions"><a class="btn" href="tel:+17015725729">Call Now</a><a class="btn btn-secondary" href="contact.html">Contact & Location</a></div>
+        </div>
+      </section>
+
+      <section>
+        <div class="container card-grid">
+          <article class="card"><h2>House lockout Williston</h2><p>Locked out of your home? Call for local, professional house lockout assistance in Williston and nearby communities.</p></article>
+          <article class="card"><h2>Rekey locks Williston</h2><p>Rekeying is a practical way to secure your property after a move, tenant change, or lost keys.</p></article>
+          <article class="card"><h2>Deadbolt installation</h2><p>We install and replace deadbolts and door hardware to improve residential security.</p></article>
+        </div>
+      </section>
+
+      <section>
+        <div class="container card">
+          <h2>Residential locksmith work</h2>
+          <ul class="service-list">
+            <li>House lockouts</li>
+            <li>Rekeying locks and key updates</li>
+            <li>Deadbolt installation and replacement</li>
+            <li>Door lock repair and replacement</li>
+            <li>General home security lock hardware support</li>
+          </ul>
+          <p>
+            We support homeowners in Williston, Ray, Tioga, Watford City, Stanley, Alexander, and surrounding areas, including Sidney, MT where appropriate.
+          </p>
+        </div>
+      </section>
+
+      <section>
+        <div class="container card">
+          <!-- Replace with your own residential locksmith photos -->
+          <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80" alt="Placeholder image for residential locksmith lock and deadbolt service" loading="lazy" />
+          <p class="note">Photo placeholder: replace with residential lock and deadbolt installation photos.</p>
+        </div>
+      </section>
+
+      <section>
+        <div class="container cta-band">
+          <h2>Need a house lockout or rekeying locksmith in Williston?</h2>
+          <p>Call Emry’s Locksmithing for trusted residential locksmith service.</p>
+          <a class="btn btn-secondary" href="tel:+17015725729">Call Now</a>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer"><div class="container footer-grid"><div><strong>Emry’s Locksmithing</strong><br />118 1st Ave W, Williston, ND 58801<br /><a href="tel:+17015725729">(701) 572-5729</a></div><div><a href="contact.html">Contact Page</a> · <a data-gbp-link href="#">Google Business Profile</a><p class="note">Call or view our Google Business Profile for current hours and availability.</p></div><div>© <span id="year"></span> Emry’s Locksmithing</div></div></footer>
+    <div class="mobile-callbar"><a href="tel:+17015725729">📞 Call Now: (701) 572-5729</a></div>
+    <script src="script.js"></script>
+  </body>
+</html>
